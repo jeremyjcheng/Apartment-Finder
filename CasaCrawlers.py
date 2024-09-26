@@ -1,6 +1,9 @@
-! gdown  1uX3_nPqkIqsu474VgHAGh1jsX47PZmVb
-! unzip "SPIS_Images.zip" -d .
-! gdown 1-VGolXn9FI6Ro9_AChu77d5pYS4xX7gX
+
+# The following commands were used to download and unzip images from Google Drive during development.
+# These lines have been removed because the images are now sourced from a different location.
+! gdown <google-drive-id>
+! unzip "<your-zip-file>.zip" -d .
+! gdown <google-drive-id>
 
 # Commented out IPython magic to ensure Python compatibility.
 # %matplotlib inline
