@@ -1,4 +1,3 @@
-
 # The following commands were used to download and unzip images from Google Drive during development.
 # These lines have been removed because the images are now sourced from a different location.
 ! gdown <google-drive-id>
